@@ -24,15 +24,3 @@ public class ExampleInstrumentedTest {
         assertEquals("com.android.iunoob.bloodbank", appContext.getPackageName());
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
